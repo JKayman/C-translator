@@ -4,4 +4,4 @@ This program translates plain text into pieces of code in C language. If execute
 The program creates a .txt file in the project's directory with the resulting code.. If the file with the given name already exists it will be overwritten.
 
 'src' contains the source code.
-'win' contains executable file for windows.
+'win' contains executable python file for windows.
